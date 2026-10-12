@@ -13,3 +13,4 @@ unimplemented = "warn"
 unreachable = "warn"
 
 [dependencies]
+copy_dir = "0.1.3"
